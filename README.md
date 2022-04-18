@@ -1,4 +1,4 @@
-<h1 align="center">Hiya ✌🏼, I'm Bruno Pittini</h1>
+<h1 align="center">Hey ✌🏼, I'm Bruno Pittini</h1>
 <h3 align="center">A software developer and Computer Science student from Tampa, Florida</h3>
 
 - 🔭 I’m currently working on [VAR-CRM](https://github.com/brunopittini/VAR-CRM)
