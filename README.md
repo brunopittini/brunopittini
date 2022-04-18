@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **studying for the technical interview, mental health resources for students, or the OMSCS program at Georgia Tech!**
 
-- 💌 How to reach me **brunopittini@gatech.edu**
+- 💌 I can be reached at **brunopittini@gatech.edu**
 
 - 📜 See what I've worked on previously at [brunopittini.me/experience](brunopittini.me/experience)
 
