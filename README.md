@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [brunopitini.me/blog](brunopitini.me/blog)
 
-- 💬 Ask me about **studying advice, mental health, the OMSCS program at Georgia Tech!**
+- 💬 Ask me about **study advice, mental health, the OMSCS program at Georgia Tech!**
 
 - 📫 How to reach me **brunopittini@gatech.edu**
 
