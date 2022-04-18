@@ -1,7 +1,7 @@
 <h1 align="center">Hey ✌🏼, I'm Bruno Pittini</h1>
 <h3 align="center">A software developer and Computer Science student from Tampa, Florida</h3>
 
-- 👨‍🎓 I’m currently studying towards a Masters Degree in computer science at the Georgia Institute of Technology through the OMSCS program.
+- 👨‍🎓 I’m studying towards a Masters Degree in computer science at the Georgia Institute of Technology through the OMSCS program.
 
 - 📚 I’m currently learning **Typescript, VIM, Svelte, GO**
 
