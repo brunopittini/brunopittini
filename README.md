@@ -1,6 +1,8 @@
 <h1 align="center">Hey ✌🏼, I'm Bruno Pittini</h1>
 <h3 align="center">A software developer and Computer Science student from Tampa, Florida</h3>
 
+<p align="left"> <a href="https://twitter.com/dismembered_swe" target="blank"><img src="https://img.shields.io/twitter/follow/dismembered_swe?logo=twitter&style=for-the-badge" alt="dismembered_swe" /></a> </p>
+
 - 👨‍🎓 I’m studying towards a Masters Degree in computer science at the Georgia Institute of Technology through the OMSCS program.
 
 - 📚 I’m currently learning **Typescript, VIM, Svelte, GO**
