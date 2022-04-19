@@ -15,8 +15,6 @@
 
 - 💌 I can be reached at **brunopittini@gatech.edu**
 
-- 📜 See what I've worked on previously at [brunopittini.me/experience](brunopittini.me/experience)
-
 - 🎹 My hobbies include **camping, hiking, photography, recording music, and lifting**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
