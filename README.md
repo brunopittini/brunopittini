@@ -1,7 +1,7 @@
 <h1 align="center">Hey ✌🏼, I'm Bruno Pittini</h1>
 <h3 align="center">A software developer and Computer Science student from Tampa, Florida</h3>
 
-<p align="left"> <a href="https://twitter.com/degen_swe" target="blank"><img src="https://img.shields.io/twitter/follow/degen_swe?logo=twitter&style=for-the-badge" alt="degen_swe" /></a> </p>
+<p align="left"> <a href="https://twitter.com/brunopittini" target="blank"><img src="https://img.shields.io/twitter/follow/brunopittini?logo=twitter&style=for-the-badge" alt="brunopittini" /></a> </p>
 
 - 👨‍🎓 I’m studying towards a Masters Degree in computer science at the Georgia Institute of Technology through the OMSCS program.
 
@@ -18,7 +18,7 @@
 - 🎹 My hobbies include **camping, hiking, photography, recording music, and lifting**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/degen_swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="degen_swe" height="30" width="40" /></a>
+<a href="https://twitter.com/brunopittini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunopittini" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brunopittini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunopittini" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
